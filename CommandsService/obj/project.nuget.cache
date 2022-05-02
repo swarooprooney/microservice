@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "w2fozNPzqlNXAUK/dorBcCL8942lX4Sr/0Pf7o4qQPjqrKDVDb5YiLBwgsdkajktczdjYHJdl7RF/+KpRIoWow==",
+  "dgSpecHash": "K41iOYOwJsvjVaF2dVdTxApMt+UDFU8y+JrS1Wb8OXlnAmPfypZzMlItT1/Wgg877ea+Iwo/efL8aOz+a8uBEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\swaroop\\Repos\\microservice\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\swaroop\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\swaroop\\.nuget\\packages\\google.protobuf\\3.20.0\\google.protobuf.3.20.0.nupkg.sha512",
+    "C:\\Users\\swaroop\\.nuget\\packages\\grpc.core.api\\2.44.0\\grpc.core.api.2.44.0.nupkg.sha512",
+    "C:\\Users\\swaroop\\.nuget\\packages\\grpc.net.client\\2.44.0\\grpc.net.client.2.44.0.nupkg.sha512",
+    "C:\\Users\\swaroop\\.nuget\\packages\\grpc.net.common\\2.44.0\\grpc.net.common.2.44.0.nupkg.sha512",
+    "C:\\Users\\swaroop\\.nuget\\packages\\grpc.tools\\2.45.0\\grpc.tools.2.45.0.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\humanizer.core\\2.13.14\\humanizer.core.2.13.14.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.7.0.0-preview.1.22076.6.nupkg.sha512",
@@ -25,13 +30,16 @@
     "C:\\Users\\swaroop\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.1.22076.8\\microsoft.extensions.options.7.0.0-preview.1.22076.8.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.1.22076.8\\microsoft.extensions.primitives.7.0.0-preview.1.22076.8.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\swaroop\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\system.collections.immutable\\7.0.0-preview.1.22076.8\\system.collections.immutable.7.0.0-preview.1.22076.8.nupkg.sha512",
     "C:\\Users\\swaroop\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.0-preview.1.22076.8\\system.diagnostics.diagnosticsource.7.0.0-preview.1.22076.8.nupkg.sha512",
-    "C:\\Users\\swaroop\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\7.0.0-preview.1.22076.8\\system.runtime.compilerservices.unsafe.7.0.0-preview.1.22076.8.nupkg.sha512"
+    "C:\\Users\\swaroop\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\swaroop\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\7.0.0-preview.1.22076.8\\system.runtime.compilerservices.unsafe.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\swaroop\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

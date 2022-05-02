@@ -11,7 +11,7 @@ namespace CommandsService.Data
         void CreatePlatform(Platform platform);
 
         bool PlatformExists(int platformId);
-
+        bool ExternalPlatformExists(int externalPlatformId);
         Task<IEnumerable<Command>> GetCommandsForPlatformAsync(int platformId);
 
         Task<Command> GetCommandAsync(int platformId, int commandId);

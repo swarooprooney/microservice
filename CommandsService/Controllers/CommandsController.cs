@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CommandsService.Controllers
 {
     [ApiController]
-    [Route("api/{platformId:int}/[controller]")]
+    [Route("api/c/platforms/{platformId:int}/[controller]")]
     public class CommandsController : ControllerBase
     {
         private readonly ICommandRepo _commandRepo;
@@ -50,7 +50,7 @@ namespace CommandsService.Controllers
             return Ok(_mapper.Map<CommandReadDto>(command));
         }
 
-        [HttpPost("{commandId:int}")]
+        [HttpPost]
         public async Task<ActionResult<CommandReadDto>> CreateCommandForPlatform(int platformId, CommandCreateDto commandCreateDto)
         {
             Console.WriteLine($"Creating command for platformId : {platformId}");
